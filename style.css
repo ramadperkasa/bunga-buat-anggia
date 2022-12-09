@@ -4,6 +4,7 @@ body {
   width: 100%;
   background: #fffaf0;
   font-family: "Josefin Sans", sans-serif;
+  overflow: hidden;
 }
 
 .content, .modal {
@@ -12,6 +13,7 @@ body {
   left:0;
   height:100%;
   width: 100%;
+  overflow: hidden;
 }
 
 .modal {
